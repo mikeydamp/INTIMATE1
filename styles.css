@@ -5,12 +5,6 @@
     
         .body-initial {
             background-color: rgba(120,15,200,1); 
-            background-repeat: no-repeat; 
-            background-attachment: scroll; 
-            background-size: auto; 
-            background-position: top center; 
-            background-image: url('../assets/the%20way%20I%20want%20it.jpg'); 
-            border-style: outset; 
         }
         @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.body-initial {
             background-color: rgba(120,15,200,1); 
@@ -334,11 +328,7 @@
             left: 100px; 
         }
         .silex-id-1476799614187-3 {
-            min-height: 500px; 
-            width: 500px; 
-            top: 2156px; 
-            left: 250px; 
-            background-color: rgba(120,15,200,1); 
+            background-color: rgba(120,15,200,0.06666666666666667); 
         }
         @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1476799614187-3 {
             background-color: rgba(120,15,200,1); 
