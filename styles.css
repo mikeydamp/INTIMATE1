@@ -12,7 +12,13 @@
             background-image: url('../assets/the%20way%20I%20want%20it.jpg'); 
             border-style: outset; 
         }
-        .silex-id-1476788490331-4 {
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.body-initial {
+            background-color: rgba(120,15,200,1); 
+        }
+        }@media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-hamburger-menu {
+            background-color: rgba(120,15,200,0.050980392156862744); 
+        }
+        }.silex-id-1476788490331-4 {
             min-height: 100px; 
             width: 277px; 
             top: 49444px; 
@@ -89,13 +95,6 @@
             width: 540px; 
             top: 12700px; 
             left: 100px; 
-        }
-        .silex-id-1476799614187-3 {
-            min-height: 500px; 
-            width: 500px; 
-            top: 2156px; 
-            left: 250px; 
-            background-color: rgba(120,15,200,0.984313725490196); 
         }
         .silex-id-1476797480170-1 {
             min-height: 145px; 
@@ -273,12 +272,6 @@
             top: 38600px; 
             left: 100px; 
         }
-        .silex-id-1476804569218-54 {
-            min-height: 796px; 
-            width: 540px; 
-            top: 39600px; 
-            left: 100px; 
-        }
         .silex-id-1476804578964-55 {
             min-height: 763px; 
             width: 540px; 
@@ -333,5 +326,22 @@
             top: 49091px; 
             left: 100px; 
             background-color: rgba(120,15,200,1); 
+        }
+        .silex-id-1476805335410-68 {
+            min-height: 768px; 
+            width: 540px; 
+            top: 39591px; 
+            left: 100px; 
+        }
+        .silex-id-1476799614187-3 {
+            min-height: 500px; 
+            width: 500px; 
+            top: 2156px; 
+            left: 250px; 
+            background-color: rgba(120,15,200,1); 
+        }
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1476799614187-3 {
+            background-color: rgba(120,15,200,1); 
+        }
         }
     
