@@ -1,47 +1,26 @@
 
+        BODY.page-[INTIMATE1] {
+            background-image: url('../assets/this%20is%20the%20way%20I%20want%20it%5D') 
+        }
+    
         .body-initial {
-            background-color: rgb(38, 38, 38); 
+            background-color: rgba(31,34,59,1); 
+            background-repeat: no-repeat; 
+            background-attachment: fixed; 
+            background-size: contain; 
+            background-position: center center; 
+            background-image: url('../assets/the%20way%20I%20want%20it.jpg'); 
         }
-        .silex-id-1474394621033-3 {
-            min-height: 20px; 
-            top: 0px; 
-            left: 0px; 
-        }
-        .silex-id-1474394621032-2 {
+        .silex-id-1476788490331-4 {
             min-height: 100px; 
-            background-color: rgb(255, 255, 255); 
-            top: 0px; 
-            left: 51px; 
-            width: 960px; 
+            width: 277px; 
+            top: 49444px; 
+            left: 49171px; 
         }
-        .silex-id-1474394605264-1 {
-            min-height: 20px; 
-            top: 20px; 
-            left: 0px; 
-        }
-        .silex-id-1474394605263-0 {
-            min-height: 100px; 
-            background-color: transparent; 
-            top: 0px; 
-            left: 51px; 
-            width: 960px; 
-        }
-        .silex-id-1476782826874-1 {
-            min-height: 780px; 
-            width: 535px; 
-            top: 100px; 
-            left: 100px; 
-        }
-        .silex-id-1442914737143-3 {
-            min-height: 825px; 
-            width: 938px; 
-            top: 81px; 
-            left: 63px; 
-        }
-        .silex-id-1476782360589-0 {
-            min-height: 457px; 
-            width: 782px; 
-            top: -69px; 
-            left: -183px; 
+        .silex-id-1476789654448-7 {
+            min-height: 142px; 
+            width: 258px; 
+            top: 83px; 
+            left: 24px; 
         }
     
