@@ -4,11 +4,13 @@
         }
     
         .body-initial {
-            background-color: rgba(31,34,59,1); 
+            background-color: transparent; 
             background-repeat: no-repeat; 
-            background-attachment: fixed; 
+            background-attachment: scroll; 
             background-size: contain; 
-            background-position: center center; 
+            background-position: top center; 
+            background-image: url('../assets/the%20way%20I%20want%20it.jpg'); 
+            border-style: outset; 
         }
         .silex-id-1476788490331-4 {
             min-height: 100px; 
@@ -21,5 +23,17 @@
             width: 258px; 
             top: 83px; 
             left: 24px; 
+        }
+        .silex-id-1476797480170-1 {
+            min-height: 145px; 
+            width: 580px; 
+            top: 1755px; 
+            left: 227px; 
+        }
+        .silex-id-1476798017284-2 {
+            min-height: 586px; 
+            width: 493px; 
+            top: 1875px; 
+            left: 213px; 
         }
     
